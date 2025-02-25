@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: ea022989e8c7f654f8fa61ebdabed080
+  productGUID: 40c8d95c22149b4408925ab0f385a530
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: vr e ar
+  productName: Vr_Ar
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: vr e ar
+  metroPackageName: Vr_Ar
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: vr e ar
+  metroApplicationDescription: Vr_Ar
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -915,10 +915,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 00c9fe72-10bc-4de9-8a2b-9ae4af9e9227
+  cloudProjectId: 7eacf5a8-0d97-4b2a-8ee7-4a30dfcbd6ef
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: vr e ar
+  projectName: Vr_Ar
   organizationId: unnormaluser
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
