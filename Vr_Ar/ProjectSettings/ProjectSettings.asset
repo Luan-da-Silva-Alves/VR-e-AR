@@ -998,10 +998,10 @@ PlayerSettings:
       PointOfService: False
       RecordedCallsFolder: False
       Contacts: False
+      Proximity: False
       InternetClient: True
       CodeGeneration: False
       BackgroundMediaPlayback: False
-      Proximity: False
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False
@@ -1067,7 +1067,7 @@ PlayerSettings:
   cloudProjectId: 7eacf5a8-0d97-4b2a-8ee7-4a30dfcbd6ef
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Vr_Ar
   organizationId: unnormaluser
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
